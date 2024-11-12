@@ -1,0 +1,24 @@
+
+
+html {
+    background-color: rgb(197, 157, 157);
+}
+
+table {
+
+    width: 400px;
+    margin: auto;
+    background-image: url('fff.jfif');
+    text-shadow: rgb(52, 141, 153) -2px -5px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+th {
+    color: rgb(16, 97, 100);
+}
+
+td {
+    color: rgb(16, 97, 100);
+}
+

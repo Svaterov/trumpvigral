@@ -1,0 +1,12 @@
+html {
+    background-color: cornflowerblue;
+}
+
+table {
+    width: 1000px;
+    margin: auto;
+}
+
+tr {
+    background-color: rgb(190, 89, 106);
+}
